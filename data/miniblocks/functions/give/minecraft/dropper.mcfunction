@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"italic": false,"text":"Dropper"}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjMyNmYwZTczOTM1M2QyZDdjOGU5YWI0ZTkxZTFmYmVjNjA3Y2FkMGZlMTAyOTZhZmQyMWQ2MzNiOWVjZWUifX19"}]}}}

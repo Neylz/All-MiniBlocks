@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"italic": false,"text":"Cut Copper"}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmE5YmRjNzU5OTVjMzc2NWNhYTVlNjgyYWQwZWUzY2MzYzlkZmY1OTE2NmExNDgzMmFmOTk5NDk2M2E4MDhlMiJ9fX0="}]}}}

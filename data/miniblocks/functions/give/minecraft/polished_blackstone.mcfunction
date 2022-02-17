@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"italic": false,"text":"Polished Blackstone"}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWM5ZWUxZDU1OGE4OWYxMWNkNTc3YTkwYjdiMWI5NmZkYTM0YzIxYzQwMDk2MDM5MDgxNWMyM2RiNTRiNjQ3MSJ9fX0="}]}}}

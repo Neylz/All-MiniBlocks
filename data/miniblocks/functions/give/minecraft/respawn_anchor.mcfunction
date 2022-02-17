@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"italic": false,"text":"Respawn Anchor"}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmJkOTY2ZDg1ZDRhNGI4ZTIxZTY3NjkwMWUzZDlmZDE5ZWVjODA4N2MzMWJhZjUxOWI0ZjM5YjNjZTU3ZDE5MiJ9fX0="}]}}}

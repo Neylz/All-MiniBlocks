@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"italic": false,"text":"Basalt"}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWI4MDAwNDVhOWY1M2MxMjY5M2FiYzkwZDY1YmU1MTY3NGI3YjZiYTRjMDNjNmU3ZGI3NTI0OTg0ODQ0MmE4YyJ9fX0="}]}}}

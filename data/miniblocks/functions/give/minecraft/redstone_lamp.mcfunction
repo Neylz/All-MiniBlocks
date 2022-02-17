@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"italic": false,"text":"Redstone Lamp"}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjRlNzVjMzExOWZiNGNmZjdjZWNjODA2NGNlZGM0ZjkxMzVmZTAwMTU3M2ZiNzAyZTczZTRhODE4ZDQ1MzlkZSJ9fX0="}]}}}

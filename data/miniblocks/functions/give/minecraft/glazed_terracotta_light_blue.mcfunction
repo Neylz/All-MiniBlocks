@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"italic": false,"text":"Glazed Terracotta light blue"}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFjODk1OTM1MTc0YWM1ZjY0ZWRhZDIxNWNlMGI2YjM4MDEzN2NjNGQxZjM5OWEzZGYxN2RjM2IyZGU0MGJkZSJ9fX0="}]}}}

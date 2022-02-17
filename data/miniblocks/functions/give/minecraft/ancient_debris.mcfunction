@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"italic": false,"text":"Ancient Debris"}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTViY2U2MmRkNTRiMWFkN2QwYmNiMjliN2EzMTE0NDQ3NTc2M2Y3OTM1Mzc4ZWM5NjIwN2JmMWM1NzRkZDc2MyJ9fX0="}]}}}

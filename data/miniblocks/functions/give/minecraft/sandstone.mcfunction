@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"italic": false,"text":"Sandstone"}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDhmODBlOWIyZDY1OTNhMzJkN2M0NGM4YmM4NjBmZWJhMzRiMzRmOGQ1NGQwY2RiNzIxMWUyM2U4ZGRjMzNhNCJ9fX0="}]}}}

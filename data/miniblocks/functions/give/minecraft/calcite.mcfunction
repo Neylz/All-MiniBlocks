@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"italic": false,"text":"Calcite"}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjBjNDcxM2MyMjU1OTE3MzY2NjI0NTkwNjI2NDI3ZTQ5MjU3MWQwNWQ4ZTJjNWVlODk5YmY2MWVmYWYyZDZhMCJ9fX0="}]}}}

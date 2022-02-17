@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"italic": false,"text":"Chiseled Quartz"}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWYyOGJiMGI1YTJlYzM5OTlhMjhlZDU1MGU2ODY4NDJlZDE5NWU5NzRjYjAyZjQzM2EzNjllZTU5NTdhMmI2ZSJ9fX0="}]}}}

@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"text":"Deepslate Copper Ore","italic": false}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWQ2YzFkYjI5YTdmNzQ1YmQ3ODlhMmMyOTQ3NmJkMTNlNzUxNjM3NmNiN2Y2ODBiZjY2ZTE3YjJhNTRhMDgxNiJ9fX0="}]}}}

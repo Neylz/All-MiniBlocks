@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"italic": false,"text":"Fletching Table"}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjc2MDc3NjA3NGMyM2FlNDExZWQ0NmVmMzI0YTdhMDcyODJmYmZiYmJjNWE5OWZjYjNmNWE4YzlkNmIwMmE1MyJ9fX0="}]}}}

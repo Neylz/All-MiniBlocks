@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"italic": false,"text":"Raw Gold Block"}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWFkZGZmNjkxNmU2NDEwZGY2Yjg4MzE1OGFlYWRhY2U2YjM2NzMzMzc0YmU2YmVkMTgyMWUzZTc0Yzk1ZDkxYiJ9fX0="}]}}}

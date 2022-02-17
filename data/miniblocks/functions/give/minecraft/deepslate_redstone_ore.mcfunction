@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"italic": false,"text":"Deepslate Redstone Ore"}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWUxYTQyMjdkNmFiNTA0M2Q2YmI4MGUxYmZkNDI2NTg4ODUzZjMzMjU2ZWU0NTYxOGEwMmY2ZWUxZWRlNTgzMCJ9fX0="}]}}}

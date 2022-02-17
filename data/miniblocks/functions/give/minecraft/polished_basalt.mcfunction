@@ -1,0 +1,1 @@
+give @s minecraft:player_head{display:{Name:'{"italic": false,"text":"Polished Basalt"}'},SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjEyMzUxNmVjMDY5YWUxMjUwMTM1NTQ3ZjU1MDM1ZDM4NDdmNTgxNzhhNWY0NzM5NDMzOTUzNzFhN2ZjM2QyNyJ9fX0="}]}}}
