@@ -9,60 +9,60 @@ summon minecraft:marker ~ ~ ~ {data:{newTrade:{buy:{id:"minecraft:barrel",Count:
 # random loots in last villager inventory slot
 # and transfered to the list of items of the barrel of the new trade (into the marker)
 
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
-loot replace block 0 4 9 container.0 loot miniblocks:miniblocks
-data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from block 0 4 9 Items[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
+loot replace entity @s villager.0 loot miniblocks:miniblocks
+data modify entity @e[type=minecraft:marker,tag=mbk_newTrade,limit=1] data.newTrade.sell.tag.BlockEntityTag.Items append from entity @s Inventory[0]
 
 
 # reset wandering_trader inventory
