@@ -4,7 +4,7 @@
  
 
 # summon marker to do maths (at the wandering_trader pos to be loaded)
-summon minecraft:marker ~ ~ ~ {data:{newTrade:{buy:{id:"minecraft:barrel",Count:1},buyB:{id:"minecraft:netherite_ingot",Count:1},maxUses:3,sell:{id:"minecraft:barrel",Count:1,tag:{BlockEntityTag:{Items:[]}}}}},Tags:["mbk_newTrade"]}
+summon minecraft:marker ~ ~ ~ {data:{newTrade:{buy:{id:"minecraft:barrel",Count:1},buyB:{id:"minecraft:netherite_ingot",Count:1},maxUses:3,sell:{id:"minecraft:barrel",Count:1,tag:{BlockEntityTag:{Items:[]},display:{Name:'{"text":"MiniBlocks Barrel","italic":false,"color":"yellow"}',Lore:['{"text":"Contains 27 random","italic":false}','{"text":"batches of 5 miniblocks","italic":false}']}}}}},Tags:["mbk_newTrade"]}
 
 # random loots in last villager inventory slot
 # and transfered to the list of items of the barrel of the new trade (into the marker)
