@@ -1,5 +1,6 @@
 {
     "values": [
-        "miniblocks:newtrade/transformnew"
+        "miniblocks:newtrade/transformnew",
+        "miniblocks:updatename/update"
     ]
 }
