@@ -1,6 +1,6 @@
 {
     "pack" : {
-        "pack_format" : 8,
-        "description" : "§7by §8Neylz\n§7version : §81.1\n§7compatibility : §81.18.x"
+        "pack_format" : 10,
+        "description" : "§7by §8Neylz\n§7version : §81.2\n§7compatibility : §81.19"
     }
 }
